@@ -7,7 +7,7 @@ I'm passionate about technology, always dedicating myself and learning new thing
 
 ****
 
-<img align="left" width="300" height="300" src="./assets/octocat.png" /> 
+<img align="left" width="200" height="200" src="./assets/octocat.png" /> 
 
 <p  align="right">
   
@@ -18,8 +18,6 @@ I'm passionate about technology, always dedicating myself and learning new thing
 - 💬 Ask me about anything
 - :zap: Fun fact: I play guitar :guitar: and mobile games :video_game:
   <p>
-  <br/>
-  <br/>
   <br/>
   <br/>
   <br/>
