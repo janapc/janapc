@@ -26,7 +26,7 @@ read more about me in <a href="https://janapc.netlify.app/">Janapc</a>
   
 ## :mag_right: **How to reach me:**
 
-[![Twitter Badge](https://img.shields.io/badge/_janapc_-b1295b?style=flat-square&labelColor=b1295b&logo=twitter&logoColor=fff&link=https://twitter.com/_janapc_)](https://twitter.com/_janapc_)
+[![Twitter Badge](https://img.shields.io/badge/_janapc_-b1295b?style=flat-square&labelColor=b1295b&logo=twitter&logoColor=fff&link=https://twitter.com/janapc_)](https://twitter.com/janapc_)
 [![Linkedin Badge](https://img.shields.io/badge/-Janaina%20Pedrina-b1295b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janaina-pedrina/)](https://www.linkedin.com/in/janaina-pedrina/) 
 [![Outlook Badge](https://img.shields.io/badge/-jana-b1295b?style=flat-square&logo=microsoft%20outlook&logoColor=white&link=mailto:jana-costa@outlook.com)](mailto:jana-costa@outlook.com)
 [![Dribbble Badge](https://img.shields.io/badge/-Janapc-b1295b?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/Janapc)](https://dribbble.com/Janapc)
