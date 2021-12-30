@@ -8,7 +8,7 @@
 
 </div>
 
-<p style="border:1px solid #e74976;margin:0 auto;width:85%"></p>
+---
 
 <div align="center" style="margin:10px 0px;">
 
@@ -18,7 +18,7 @@ Sou apaixonada pelo mundo da TI desde adolescência mesmo sem saber nada sobre p
 
 </div>
 
-<p style="border:1px solid #e74976;margin:0 auto;width:85%"></p>
+---
 
 <div align="center" style="margin:10px 0px;">
 
@@ -30,7 +30,7 @@ Sou apaixonada pelo mundo da TI desde adolescência mesmo sem saber nada sobre p
 - 💬 Podemos trocar uma idéia sobre animes, series, manga, livros, filmes, DC ou Marvel, jogos, comida e qualquer outro assunto.
 - ⛱ No tempo livre gosto de cozinhar, ler, assistir e jogar.
 
-<p style="border:1px solid #e74976;margin:0 auto;width:85%"></p>
+---
 
 <div align="center" style="margin:10px 0px;">
 
