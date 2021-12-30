@@ -1,53 +1,61 @@
-### Hi, I'm Jana 👋 :woman_technologist:
-![](https://visitor-badge.laobi.icu/badge?page_id=janapc)
-![](https://img.shields.io/github/followers/janapc?style=social)
-****
-## :blush: A little about me:
-I love javascript and all wraps the world of programming, too adore challenges and learning new things.
-I like to new getting knowledge and share my knowledge.
-read more about me in <a href="https://janapc.netlify.app/">Janapc</a>
-****
+<img width="100%" height="100%" src="./assets/banner-white.png" />
 
-<img align="left" width="200" height="200" src="./assets/octocat.png" /> 
+<div align="center" style="margin:20px 0px;">
 
-<p  align="right">
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/janaina-pedrina/)](https://www.linkedin.com/in/janaina-pedrina/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/janapc_)](https://twitter.com/janapc_)
+[![Dribble Badge](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white&link=https://dribbble.com/Janapc)](https://dribbble.com/Janapc)
+
+</div>
+
+<p style="border:1px solid #e74976;margin:0 auto;width:85%"></p>
+
+<div align="center" style="margin:10px 0px;">
+
+## Estou feliz por te ver aqui :blush: ![](https://visitor-badge.laobi.icu/badge?page_id=janapc)
+
+Sou apaixonada pelo mundo da TI desde adolescência mesmo sem saber nada sobre programação eu já me aventurava com php,codorva,phonegap,ionic,angular1 e me encantava por cada página que eu criava isso me deu um impulso na hora de escolher oque eu queria fazer da minha vida profissional.Sou formada em **Analise de Desenvolvimendo de Sistemas** pela **Unisepe**.
+
+</div>
+
+<p style="border:1px solid #e74976;margin:0 auto;width:85%"></p>
+
+<div align="center" style="margin:10px 0px;">
+
+## Um pouco sobre mim :point_down:
+</div>
   
-### :mortar_board: I have a degree in Analysis and Systems Development from Unisepe. 
-  
-- 🔭 I’m currently a Software developer on Kiina
-- 🌱 I’m currently learning React, react native, typescript
-- 💬 Ask me about anything
-- :zap: Fun fact: I play guitar :guitar: and mobile games :video_game:
-  <p>
-  <br/>
-  <br/>
-  <br/>
-****
-  
-## :mag_right: **How to reach me:**
+- 👩‍💻 Trabalho atualmento como **Desenvolvedora júnior** na **D1 Smarkio**
+- ✍️ Atualmente estou me aprofundando mais em nodejs, docker e AWS
+- 💬 Podemos trocar uma idéia sobre animes, series, manga, livros, filmes, DC ou Marvel, jogos, comida e qualquer outro assunto.
+- ⛱ No tempo livre gosto de cozinhar, ler, assistir e jogar.
 
-[![Twitter Badge](https://img.shields.io/badge/_janapc_-b1295b?style=flat-square&labelColor=b1295b&logo=twitter&logoColor=fff&link=https://twitter.com/janapc_)](https://twitter.com/janapc_)
-[![Linkedin Badge](https://img.shields.io/badge/-Janaina%20Pedrina-b1295b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janaina-pedrina/)](https://www.linkedin.com/in/janaina-pedrina/) 
-[![Outlook Badge](https://img.shields.io/badge/-jana-b1295b?style=flat-square&logo=microsoft%20outlook&logoColor=white&link=mailto:jana-costa@outlook.com)](mailto:jana-costa@outlook.com)
-[![Dribbble Badge](https://img.shields.io/badge/-Janapc-b1295b?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/Janapc)](https://dribbble.com/Janapc)
+<p style="border:1px solid #e74976;margin:0 auto;width:85%"></p>
 
+<div align="center" style="margin:10px 0px;">
 
-****
+## Linguagens e ferramentas :wrench:
+</div>
 
-### :rocket: **Languages and Tools:**
-![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=Typescript&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?style=flat-square&logo=Adobe%20xd&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Reactjs](https://img.shields.io/badge/-Reactjs-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Postgresql](https://img.shields.io/badge/-Postgresql-336791?style=flat-square&logo=Postgresql&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-****
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## :tada: My Github stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janapc&theme=tokyonight" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=janapc&show_icons=true&theme=tokyonight" />
+---
+<div align="center" style="margin:10px 0px;">
+
+## Github Status :chart_with_upwards_trend:
+</div>
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janapc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janapc&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
