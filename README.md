@@ -22,7 +22,7 @@ Sou apaixonada pelo mundo da TI desde adolescência mesmo sem saber nada sobre p
 </div>
   
 - 👩‍💻 Trabalho atualmente como **Tech Lead** na **D1 Smarkio**
-- ✍️ Atualmente estou me aprofundando mais em nodejs, docker e AWS.
+- ✍️ Atualmente estou estudando sobre AWS.
 - 💬 Podemos trocar uma idéia sobre animes, series, manga, livros, filmes, DC ou Marvel, jogos, comida e qualquer outro assunto.
 - ⛱ No tempo livre gosto de cozinhar, ler, assistir e jogar.
 
@@ -39,7 +39,7 @@ Sou apaixonada pelo mundo da TI desde adolescência mesmo sem saber nada sobre p
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
