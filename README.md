@@ -12,7 +12,9 @@
 
 ## Estou feliz por te ver aqui :blush: ![](https://visitor-badge.laobi.icu/badge?page_id=janapc)
 
-Sou apaixonada pelo mundo da TI desde adolescência mesmo sem saber nada sobre programação eu já me aventurava com php, codorva, phonegap, ionic, angular1 e me encantava por cada página que eu criava, isso me deu um impulso na hora de escolher oque eu queria fazer da minha vida profissional.Sou formada em **Analise de Desenvolvimendo de Sistemas** pela **Unisepe**.Se quiser saber mais sobre mim 👉 [Janapc](https://janapc-nextjs.vercel.app/)
+Sou apaixonada pelo mundo da TI desde adolescência mesmo sem saber nada sobre programação eu já me aventurava com php, codorva, phonegap, ionic, angular1 e me encantava por cada página que eu criava, isso me deu um impulso na hora de escolher oque eu queria fazer da minha vida profissional.
+
+Meu portifolio 👉 [Janapc](https://janapc-nextjs.vercel.app/)
 
 </div>
 
@@ -22,6 +24,7 @@ Sou apaixonada pelo mundo da TI desde adolescência mesmo sem saber nada sobre p
 </div>
   
 - 👩‍💻 Trabalho atualmente como **Tech Lead** na **D1 Smarkio**
+- 👩‍🎓	Sou formada em **Analise de Desenvolvimendo de Sistemas**
 - ✍️ Atualmente estou estudando sobre AWS.
 - 💬 Podemos trocar uma idéia sobre animes, series, manga, livros, filmes, DC ou Marvel, jogos, comida e qualquer outro assunto.
 - ⛱ No tempo livre gosto de cozinhar, ler, assistir e jogar.
