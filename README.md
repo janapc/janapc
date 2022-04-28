@@ -27,6 +27,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Criando um envio de newsletter com AWS SNS e Nodejs](https://dev.to/feministech/criando-um-envio-de-newsletter-com-aws-sns-e-nodejs-4a2a)
+- [Criando uma AWS lambda com Serverless framework](https://dev.to/feministech/criando-uma-aws-lambda-com-serverless-framework-54ph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
