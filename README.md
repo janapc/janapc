@@ -17,9 +17,9 @@
 ## Estou feliz por te ver aqui 🙃
 </div>
   
-- 👩‍💻 Trabalho atualmente como **Tech Lead** na **D1 Smarkio**
+- 👩‍💻 Trabalho atualmente como **Desenvolvedora Junior** na **Zenvia**
 - 👩‍🎓	Sou formada em **Analise de Desenvolvimendo de Sistemas**
-- ✍️ Atualmente estou estudando sobre AWS SNS.
+- ✍️ Atualmente estou estudando sobre Clean Architecture.
 - 💬 Podemos trocar uma idéia sobre animes, series, manga, livros, filmes, DC ou Marvel, jogos, comida e qualquer outro assunto.
 - ⛱ No tempo livre gosto de cozinhar, ler, assistir e jogar.
 
