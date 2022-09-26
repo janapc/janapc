@@ -19,8 +19,7 @@
   
 - 👩‍💻 Trabalho atualmente como **Desenvolvedora Junior** na **Zenvia**
 - 👩‍🎓	Sou formada em **Analise de Desenvolvimendo de Sistemas**
-- ✍️ Atualmente estou estudando sobre Clean Architecture.
-- 💬 Podemos trocar uma idéia sobre animes, series, manga, livros, filmes, DC ou Marvel, jogos, comida e qualquer outro assunto.
+- ✍️ Atualmente estou estudando sobre DDD.
 - ⛱ No tempo livre gosto de cozinhar, ler, assistir e jogar.
 
 ---
