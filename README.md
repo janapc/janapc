@@ -19,7 +19,7 @@
   
 - 👩‍💻 Trabalho atualmente como **Desenvolvedora Junior** na **Zenvia**
 - 👩‍🎓	Sou formada em **Analise de Desenvolvimendo de Sistemas**
-- ✍️ Atualmente estou estudando sobre DDD.
+- ✍️ Atualmente estou estudando sobre Golang.
 - ⛱ No tempo livre gosto de cozinhar, ler, assistir e jogar.
 
 ---
