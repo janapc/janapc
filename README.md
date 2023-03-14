@@ -17,9 +17,9 @@
 ## Estou feliz por te ver aqui 🙃
 </div>
   
-- 👩‍💻 Trabalho atualmente como **Desenvolvedora Junior** na **Zenvia**
+- 👩‍💻 Trabalho atualmente como **Líder técnico** na **Zenvia**
 - 👩‍🎓	Sou formada em **Analise de Desenvolvimendo de Sistemas**
-- ✍️ Atualmente estou estudando sobre Golang.
+- ✍️ Atualmente estou estudando sobre **Golang**.
 - ⛱ No tempo livre gosto de cozinhar, ler, assistir e jogar.
 
 ---
