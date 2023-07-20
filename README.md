@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá sou [Jana](https://janapc-nextjs.vercel.app/) 👋
+# Olá sou Jana 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/janaina-pedrina/)](https://www.linkedin.com/in/janaina-pedrina/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/janapc_)](https://twitter.com/janapc_)
@@ -17,10 +17,10 @@
 ## Estou feliz por te ver aqui 🙃
 </div>
   
-- 👩‍💻 Trabalho atualmente como **Desenvolvedora júnior** na **Zenvia**
-- 👩‍🎓	Sou formada em **Analise de Desenvolvimendo de Sistemas**
-- ✍️ Atualmente estou estudando sobre **Nodejs**.
-- ⛱ No tempo livre gosto de cozinhar, ler, assistir e jogar.
+- 👩‍💻 Sou desenvolvedora atuando com front-end e back-end.
+- 👩‍🎓 Sou formada em **Analise de Desenvolvimendo de Sistemas**
+- ✍️ Atualmente estou estudando mais a fundo sobre **Nodejs**.
+- ⛱ Meus hobbies são cozinhar, jogar e assistir.
 
 ---
 
