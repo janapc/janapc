@@ -4,23 +4,9 @@
 # Olá sou Jana 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/janaina-pedrina/)](https://www.linkedin.com/in/janaina-pedrina/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/janapc_)](https://twitter.com/janapc_)
 [![DEV.to Badge](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/janapc)](https://dev.to/janapc)
 
 </div>
-
----
-
-
-<div align="center">
-
-## Estou feliz por te ver aqui 🙃
-</div>
-  
-- 👩‍💻 Sou desenvolvedora atuando com front-end e back-end.
-- 👩‍🎓 Sou formada em **Analise de Desenvolvimendo de Sistemas**
-- ✍️ Atualmente estou estudando mais a fundo sobre **Nodejs**.
-- ⛱ Meus hobbies são cozinhar, jogar e assistir.
 
 ---
 
@@ -37,25 +23,15 @@
 ## Tecnologias 🚀	
 </div>
 
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 
----
 
-<div align="center">
-
-## Status sobre meu github 📈
-</div>
-
-[![Jana github stats](https://github-readme-stats.vercel.app/api?username=janapc&theme=synthwave)](https://github.com/janapc/)
-
-[![Jana top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janapc&theme=synthwave)](https://github.com/janapc/)
